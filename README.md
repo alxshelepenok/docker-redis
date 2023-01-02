@@ -1,4 +1,4 @@
-# redis
+# docker-redis
 
 Ready-to-run Docker image with Redis.
 
