@@ -5,7 +5,7 @@ Ready-to-run Docker image with Redis.
 ## Quickstart
 
 ```bash
-$ docker run --name redis -e waterscape/redis:latest
+$ docker run --name redis -e alxshelepenok/redis:latest
 ```
 
 ## Building
@@ -18,7 +18,7 @@ $ ./build.sh latest
 
 The MIT License (MIT)
 
-Copyright (c) 2023 Waterscape
+Copyright (c) 2023 Alexander Shelepenok
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
